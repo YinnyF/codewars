@@ -46,3 +46,21 @@ num_moves == 1 <==> it's on the same diagonal.
 
 How do we work out if it's on the same diagonal? |dx|==|dy|
 =end
+
+# Refactored solution 2
+def bishop (start_pos, end_pos, num_moves)
+  key = {"a" => 1, "b" => 2, "c" => 3, "d" => 4, "e" => 5, "f" => 6, "g" => 7, "h" => 8}
+  
+  start_pos = [key[start_pos[0]], start_pos[1].to_i]
+  end_pos = [key[end_pos[0]], end_pos[1].to_i]
+
+  return false if ((start_pos[0] - end_pos[0]) % 2) != ((start_pos[1] - end_pos[1]) % 2)
+  
+  if num_moves > 1
+    return true
+  elsif num_moves == 1
+    return (start_pos[0] - end_pos[0]).abs == (start_pos[1] - end_pos[1]).abs
+  else
+    return start_pos == end_pos
+  end
+end
