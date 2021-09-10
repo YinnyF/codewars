@@ -49,3 +49,27 @@ An similar kata to 5KYU/valid-parentheses.rb
 
 Since I followed the same logic as valid-parentheses, the solution is not that great.
 =end
+
+# refactoring my solution 10/09/21
+def validBraces(braces)
+  validity_checker = []
+  
+  braces.split("").each do |char|
+    case char
+      when "("
+        validity_checker.push("r")
+      when ")"
+        return false if validity_checker.pop != "r"
+      when "{"
+        validity_checker.push("c")
+      when "}"
+        return false if validity_checker.pop != "c"
+      when "["
+        validity_checker.push("s")
+      when "]"
+        return false if validity_checker.pop != "s"
+    end   
+  end
+  
+  validity_checker.empty?
+end
