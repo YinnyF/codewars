@@ -115,6 +115,7 @@ Here is a list of all the katas I have completed and my solutions in Ruby.
 ### <a name="5KYU">5 KYU</a>
 * [Directions Reduction](5KYU/directions-reduction.rb)
 * [Calculating with Functions](5KYU/calculating-with-functions.rb)
+* [Valid Parentheses](5KYU/valid-parentheses.rb)
 
 ### <a name="4KYU">4 KYU</a>
 * [Snail](4KYU/snail.rb)
