@@ -75,6 +75,7 @@ Here is a list of all the katas I have completed and my solutions in Ruby.
 * [Triple Shiftian Numbers](7KYU/triple-shiftian-numbers.rb)
 * [Categorize New Member](7KYU/categorise-new-member.rb)
 * [Leap Years](7KYU/leap-years.rb)
+* [Ones and Zeros](7KYU/ones-and-zeros.rb)
 
 ### <a name="6KYU">6 KYU</a>
 * [Sort the odd](6KYU/sort-the-odd.rb)
