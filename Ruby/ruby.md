@@ -111,6 +111,7 @@ Here is a list of all the katas I have completed and my solutions in Ruby.
 * [Build a pile of Cubes](6KYU/build-a-pile-of-cubes.rb)
 * [Consecutive strings](6KYU/consecutive-strings.rb)
 * [Bishop Movement checker](6KYU/bishop-movement-checker.rb)
+* [Valid Braces](6KYU/valid-braces.rb)
 
 ### <a name="5KYU">5 KYU</a>
 * [Directions Reduction](5KYU/directions-reduction.rb)
