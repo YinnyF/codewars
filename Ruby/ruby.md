@@ -114,6 +114,7 @@ Here is a list of all the katas I have completed and my solutions in Ruby.
 * [Bishop Movement checker](6KYU/bishop-movement-checker.rb)
 * [Valid Braces](6KYU/valid-braces.rb)
 * [Find the unique number](6KYU/find-the-unique-number.rb)
+* [Delete occurrences of an element if it occurs more than n times](6KYU/delete-occurences-of-an-element-if-it-occurs-more-than-n-times.rb)
 
 ### <a name="5KYU">5 KYU</a>
 * [Directions Reduction](5KYU/directions-reduction.rb)
