@@ -116,6 +116,7 @@ Here is a list of all the katas I have completed and my solutions in Ruby.
 * [Valid Braces](6KYU/valid-braces.rb)
 * [Find the unique number](6KYU/find-the-unique-number.rb)
 * [Delete occurrences of an element if it occurs more than n times](6KYU/delete-occurences-of-an-element-if-it-occurs-more-than-n-times.rb)
+* [Format a string of names like 'Bart, Lisa & Maggie'.](6KYU/format-a-string-of-names-like-bart-lisa-maggie.rb)
 
 ### <a name="5KYU">5 KYU</a>
 * [Directions Reduction](5KYU/directions-reduction.rb)
