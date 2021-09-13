@@ -76,6 +76,7 @@ Here is a list of all the katas I have completed and my solutions in Ruby.
 * [Categorize New Member](7KYU/categorise-new-member.rb)
 * [Leap Years](7KYU/leap-years.rb)
 * [Ones and Zeros](7KYU/ones-and-zeros.rb)
+* [Is this a triangle?](7KYU/is-this-a-triangle.rb)
 
 ### <a name="6KYU">6 KYU</a>
 * [Sort the odd](6KYU/sort-the-odd.rb)
