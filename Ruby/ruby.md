@@ -126,3 +126,4 @@ Here is a list of all the katas I have completed and my solutions in Ruby.
 ### <a name="4KYU">4 KYU</a>
 * [Snail](4KYU/snail.rb)
 * [Next bigger number with the same digits](4KYU/next-bigger-number-with-the-same-digits.rb)
+* [Human readable duration format](4KYU/human-readable-duration-format.rb)
