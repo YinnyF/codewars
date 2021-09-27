@@ -15,3 +15,17 @@ def towerBuilder(n_floors)
   
   return tower
 end
+
+# another solution 27/09/21
+def towerBuilder(n_floors)
+  tower = []
+  width = (n_floors * 2) - 1
+  
+  i = 1
+  while i <= width
+    tower << ("*" * i).center(width)
+    i = i + 2
+  end
+    
+  return tower
+end
