@@ -78,6 +78,7 @@ Here is a list of all the katas I have completed and my solutions in Ruby.
 * [Ones and Zeros](7KYU/ones-and-zeros.rb)
 * [Is this a triangle?](7KYU/is-this-a-triangle.rb)
 * [Sort the Vowels!](7KYU/sort-the-vowels.rb)
+* [Without the letter 'E'](7KYU/without-the-letter-e.rb)
 
 ### <a name="6KYU">6 KYU</a>
 * [Sort the odd](6KYU/sort-the-odd.rb)
